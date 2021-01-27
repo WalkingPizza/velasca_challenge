@@ -1,6 +1,7 @@
 {
   "name": "velasca_challenge",
   "version": "0.1.0",
+  "homepage": "https://walkingpizza.github.io/velasca_challenge",
   "private": true,
   "dependencies": {
     "@craco/craco": "^5.9.0",
